@@ -15,6 +15,7 @@
 		75FCDBE12546FE500087DAEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 75FCDBDF2546FE500087DAEA /* LaunchScreen.storyboard */; };
 		75FCDBEC2546FE510087DAEA /* RaceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FCDBEB2546FE510087DAEA /* RaceTests.swift */; };
 		75FCDBF72546FE510087DAEA /* RaceUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FCDBF62546FE510087DAEA /* RaceUITests.swift */; };
+		75FCDC052546FFB40087DAEA /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75FCDC042546FFB40087DAEA /* Car.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		75FCDBF22546FE510087DAEA /* RaceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RaceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		75FCDBF62546FE510087DAEA /* RaceUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaceUITests.swift; sourceTree = "<group>"; };
 		75FCDBF82546FE510087DAEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		75FCDC042546FFB40087DAEA /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				75FCDBD42546FE4D0087DAEA /* AppDelegate.swift */,
 				75FCDBD62546FE4D0087DAEA /* SceneDelegate.swift */,
 				75FCDBD82546FE4D0087DAEA /* ViewController.swift */,
+				75FCDC042546FFB40087DAEA /* Car.swift */,
 				75FCDBDA2546FE4D0087DAEA /* Main.storyboard */,
 				75FCDBDD2546FE500087DAEA /* Assets.xcassets */,
 				75FCDBDF2546FE500087DAEA /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				75FCDBD92546FE4D0087DAEA /* ViewController.swift in Sources */,
 				75FCDBD52546FE4D0087DAEA /* AppDelegate.swift in Sources */,
+				75FCDC052546FFB40087DAEA /* Car.swift in Sources */,
 				75FCDBD72546FE4D0087DAEA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
